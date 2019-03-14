@@ -1,4 +1,4 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/necasorg/gwaji/
+ - export DEPLOYPATH=/home/briatekc/public_html/gwaji/
