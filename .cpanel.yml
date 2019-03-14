@@ -2,5 +2,5 @@
 deployment:
       tasks:
         - export DEPLOYPATH=/home/briatekc/public_html/gwaji
-        - /bin/cp -r * $DEPLOYPATH/gwaji
+        - /bin/cp -r gwaji $DEPLOYPATH/gwaji
 
