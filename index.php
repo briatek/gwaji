@@ -1,9 +1,5 @@
 <?php
 
-echo "Hello";
-echo "<br/>";
-echo "New line";
-echo "oops";
-echo "yes";
+echo "Testing cPanel Intergration";
 
 ?>
